@@ -1,0 +1,11 @@
+hyprland
+waybar
+rofi
+kitty
+matugen
+pipewire
+pipewire-pulse
+wireplumber
+gtk3
+gtk4
+fastfetch
