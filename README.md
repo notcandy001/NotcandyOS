@@ -36,7 +36,8 @@ It is a fully themed Wayland setup focused on:
 
 
 ### 🔐 Lock Screen
- [Lock Screen] <img width="1366" height="768" alt="2025-12-28_21-08-20"https://github.com/user-attachments/assets/92cd23ba-3393-402c-8152-bd800e92bb88" />
+ [Lock Screen] 
+![10-2-3](https://github.com/user-attachments/assets/9c15f2ee-9db5-429c-8787-63f0cf74f65e)
 
 
 
