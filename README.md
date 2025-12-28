@@ -28,16 +28,16 @@ It is a fully themed Wayland setup focused on:
 ## 🖼 Screenshots
 
 ### 🪟 Hyprland Desktop
-![Hyprland Desktop](<img width="1366" height="768" alt="2025-12-28_21-07-31" src="https://github.com/user-attachments/assets/d2c96299-6b1d-4e81-a48e-bea99d3c6031" />
-)
+![Hyprland Desktop] <img width="1366" height="768" alt="2025-12-28_21-07-31" src="https://github.com/user-attachments/assets/d2c96299-6b1d-4e81-a48e-bea99d3c6031" />
+
 
 ### 🚀 Rofi Launcher
-![Rofi Launcher](<img width="1366" height="768" alt="2025-12-28_21-08-20" src="https://github.com/user-attachments/assets/8c6a7a3e-6852-4a96-b096-dc1dc8c68034" />
-)
+![Rofi Launcher] <img width="1366" height="768" alt="2025-12-28_21-08-20" src="https://github.com/user-attachments/assets/8c6a7a3e-6852-4a96-b096-dc1dc8c68034" />
+
 
 ### 🔐 Lock Screen
-![Lock Screen](![hyprlock](https://github.com/user-attachments/assets/35d5acb6-b445-4091-90c7-9063486ca53a)
-)
+![Lock Screen] 
+
 
 ---
 
